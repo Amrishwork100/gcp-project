@@ -512,3 +512,8 @@ org.apache.lucene.store.AlreadyClosedException: this IndexReader is closed
 2019-12-18 00:41:58,337 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2019-12-18 00:41:58,337 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\gcp_wrksp\gcp-project\gcp-backend\src\test\resources
 2019-12-18 00:41:58,337 [Worker-26: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of gcp-backend
+2019-12-18 00:41:58,337 [Worker-26: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for gcp-backend
+2019-12-18 00:41:58,340 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-12-18 00:42:00,670 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2019-12-18 00:42:01,110 [Worker-40: Launching gcp-backend] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\gcp_wrksp\gcp-project\gcp-backend
+2019-12-18 00:42:01,110 [Worker-40: Launching gcp-backend] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean install
